@@ -1,4 +1,4 @@
-# Debt Settler
+# SplitMATE
 
 This is a React-based web application that helps users manage and settle their debts efficiently in minimum number of transactions. It calculates how debts can be minimized by determining optimal settlements among multiple people using Graph and Heap algorithms.
 
